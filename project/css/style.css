@@ -3,7 +3,7 @@
 * {
   box-sizing: border-box;
   box-shadow: 10px 10px 5px #888888;
-  verflow:auto;
+  overflow:auto;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 }
 
 body  {
-    background-image: url("project/food.jpg");
+    background-image: url("food.jpg");
   
 }
 
