@@ -4,7 +4,7 @@
 
 h1 {
 	font-family: Brushstroke, fantasy;
-	color: #000000;
+	color: white;
 	text-align: center;
 }
 body {
@@ -41,6 +41,7 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
+	color: #000000;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
@@ -55,6 +56,7 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
+	color: #000000;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
@@ -69,6 +71,7 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
+	color: #000000;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
