@@ -12,6 +12,7 @@ h1 {
 
 body  {
     background-image: url("food.jpg");
+    background-repeat: no-repeat;
   
 }
 
