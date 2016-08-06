@@ -4,7 +4,7 @@
 
 h1 {
 	font-family: Brushstroke, fantasy;
-	color: white;
+	color: #000080;
 	text-align: center;
 }
 body {
@@ -79,7 +79,6 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #6495ED;
-	color: white;
 	padding: 5px;
 }
 
